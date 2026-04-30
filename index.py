@@ -109,6 +109,18 @@ while True:
      break
 
 
+# Atividade 7
+
+while True:
+    senha = input('Digite a senha ')
+    if senha == 'teste':
+        print('Acesso liberado ')
+        break 
+    else:
+        print('Senha incorreta')   
+        
+
+
 
 
    
